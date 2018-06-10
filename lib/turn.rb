@@ -1,5 +1,5 @@
 def display_board(board)
-  return board
+  board
 end
 
 def input_to_index(input)
