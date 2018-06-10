@@ -1,5 +1,7 @@
 def display_board(board)
-  print board
+  board.each do |s|
+    puts s
+  end
 end
 
 def input_to_index(input)
