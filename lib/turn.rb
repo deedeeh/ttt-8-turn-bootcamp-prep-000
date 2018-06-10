@@ -1,5 +1,9 @@
 def display_board(board)
-  print board
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
 
 def input_to_index(input)
