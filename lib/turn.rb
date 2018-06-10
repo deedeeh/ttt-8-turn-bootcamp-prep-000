@@ -28,3 +28,6 @@ def move(board, index, mark = "X")
   board[index] = mark
 end
 
+
+def turn(board)
+
