@@ -30,5 +30,6 @@ end
 
 
 def turn(board)
+  puts "Please enter 19"
 end
 
